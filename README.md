@@ -17,7 +17,7 @@ Hi there! I'm **Dr. Roaa Soloh**, an **Assistant Professor at Rafik Hariri Unive
 
 I have experience teaching a variety of subjects, including:  
 
-- 🌐 **Web Track Courses** (Web Programming, Advanced Web Programming, React)  
+- 🌐 **Web Track Courses** (Web Programming, Advanced Web Programming, React, Laravel)  
 - 📱 **Mobile Development** (Android)  
 - 🤖 **Data Science & AI** (Web Scraping, Computer Vision)  
 - 🧠 **Theoretical Foundations** (Theory of Computation, HCI)  
